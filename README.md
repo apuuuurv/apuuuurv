@@ -32,10 +32,10 @@
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | 🔗 [**VeriChain**](https://github.com/apuuuurv/verichain) | React, Node.js, Ethereum, Supabase | A decentralized academic portfolio system built on blockchain to ensure tamper-proof and verified credentials |
-| 🛒 [**Amazon Interface Clone**](https://github.com/apuuuurv) | HTML, CSS | A pixel-perfect clone of the Amazon homepage with responsive design |
-| 💱 [**Currency Converter**](https://github.com/apuuuurv) | HTML, CSS, JavaScript | A real-time currency converter app using JavaScript and API integration |
-| ✂️ [**Rock Paper Scissors Game**](https://github.com/apuuuurv) | HTML, CSS, JavaScript | Interactive browser game with score tracking and animations |
-| ❌⭕ [**Tic Tac Toe Game**](https://github.com/apuuuurv) | HTML, CSS, JavaScript | Classic 2-player game with a modern UI and game-over detection logic |
+| 🛒 [**Amazon Interface Clone**]([https://github.com/apuuuurv](https://github.com/apuuuurv/Amazon_Interface_Clone)) | HTML, CSS | A pixel-perfect clone of the Amazon homepage with responsive design |
+| 💱 [**Currency Converter**]([https://github.com/apuuuurv](https://github.com/apuuuurv/CurrencyConvertor)) | HTML, CSS, JavaScript | A real-time currency converter app using JavaScript and API integration |
+| ✂️ [**Rock Paper Scissors Game**]([https://github.com/apuuuurv](https://github.com/apuuuurv/Rock-Paper-Scissors)) | HTML, CSS, JavaScript | Interactive browser game with score tracking and animations |
+| ❌⭕ [**Tic Tac Toe Game**]([https://github.com/apuuuurv](https://github.com/apuuuurv/Tic-Tac-Toe)) | HTML, CSS, JavaScript | Classic 2-player game with a modern UI and game-over detection logic |
 
 > 🔎 *More projects available in [my repositories](https://github.com/apuuuurv?tab=repositories)*
 
